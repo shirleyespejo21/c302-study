@@ -1,2 +1,5 @@
 criar email:
 shirley.ufpr@gmail.com
+
+idade: 20 anos
+peso: 20kg
